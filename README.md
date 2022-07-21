@@ -6,4 +6,3 @@ We suppose to have two users : student (Login="etudiant",Password="ensah") and A
 3. If a given user requests page1 or page2 directly (without authentication), they will have to be redirected to the authentication page.
 4. In both pages display a welcome message with the user's login (For example example: Hello Administrator ) and a link for logging out
 
-Translated with www.DeepL.com/Translator (free version)
